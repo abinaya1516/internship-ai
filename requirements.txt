@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+streamlit
+requests
+pandas
+scikit-learn
+pypdf
+anthropic
+python-dotenv
+python-multipart
+httpx
+pytest
